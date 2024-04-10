@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.a2{
+    text-align: center;
+}
+.container-fluid{
+    background-color: whitesmoke;
+}
+.b1{
+    background-color:whitesmoke;
+    text-align: center;
+    
+}
+.b2{
+    text-align: center;
+}
+.footer{
+    background-color:whitesmoke;
+    text-align: center;
+}
+
+.footer-container{
+    justify-content: left;
+    text-align: left;
+}
+.carousel-inner{
+    width: 200vh;
+    height: 100vh;
+}
